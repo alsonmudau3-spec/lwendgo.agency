@@ -1,3 +1,1 @@
 Coming Soon...
-<img src="/images/"C:\Users\pusel\Downloads\WhatsApp Image 2026-05-24 at 16.36.47 (1).jpeg"/>
-robots.txt
