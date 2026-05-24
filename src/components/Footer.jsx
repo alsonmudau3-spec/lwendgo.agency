@@ -2,7 +2,6 @@ import React from 'react';
 import './Footer.css';
 
 const CONTACT_INFO = {
-  phone: '081 404 9313',
   support: 'support@lwendgo.agency',
   customercare: 'customercare@lwendgo.agency',
 };
