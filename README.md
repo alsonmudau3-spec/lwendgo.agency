@@ -1,1 +1,13 @@
-Coming Soon...
+{
+  "name": "lwendgo-frontend",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3",
+    "socket.io-client": "^4.7.5"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  }
