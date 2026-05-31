@@ -1,0 +1,19 @@
+images/
+├── logos/
+│   ├── lwendgo-logo.png
+│   ├── lwendgo-logo-dark.png
+│   ├── favicon-192.png
+│   └── favicon-512.png
+├── backgrounds/
+│   ├── hero-banner.jpg
+│   └── home-background.jpg
+├── services/
+│   ├── bus.jpg
+│   ├── coach.jpg
+│   └── shuttle.jpg
+├── destinations/
+│   └── routes/
+└── icons/
+    ├── bus.svg
+    ├── location.svg
+    └── booking.svg
